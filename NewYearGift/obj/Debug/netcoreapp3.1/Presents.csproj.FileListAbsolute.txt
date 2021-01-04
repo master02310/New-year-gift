@@ -1,0 +1,13 @@
+C:\Users\Даниил\source\repos\Presents\Presents\bin\Debug\netcoreapp3.1\Presents.exe
+C:\Users\Даниил\source\repos\Presents\Presents\bin\Debug\netcoreapp3.1\Presents.deps.json
+C:\Users\Даниил\source\repos\Presents\Presents\bin\Debug\netcoreapp3.1\Presents.runtimeconfig.json
+C:\Users\Даниил\source\repos\Presents\Presents\bin\Debug\netcoreapp3.1\Presents.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\Presents\Presents\bin\Debug\netcoreapp3.1\Presents.dll
+C:\Users\Даниил\source\repos\Presents\Presents\bin\Debug\netcoreapp3.1\Presents.pdb
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.dll
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.pdb
+C:\Users\Даниил\source\repos\Presents\Presents\obj\Debug\netcoreapp3.1\Presents.genruntimeconfig.cache
